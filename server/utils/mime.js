@@ -53,7 +53,7 @@ function getExtension (mime) {
 
   switch (mime) {
     case 'audio/mp4':
-      ext = 'm4a'
+      ext = 'mp3'
       break
 
     case 'audio/webm':
