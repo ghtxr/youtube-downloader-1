@@ -23,7 +23,7 @@ function getContainer (mime) {
   switch (mime) {
     case 'audio/m4a':
     case 'audio/mp4':
-      container = 'm4a'
+      container = 'mp3'
       break
 
     case 'video/3gpp':
